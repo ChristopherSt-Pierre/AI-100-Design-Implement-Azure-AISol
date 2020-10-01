@@ -1,0 +1,17 @@
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab9-Test_Bots_DirectLine\code\ChatBot-Client\ChatBot-Client\bin\Debug\netcoreapp3.1\ChatBot-Client.exe
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab9-Test_Bots_DirectLine\code\ChatBot-Client\ChatBot-Client\obj\Debug\netcoreapp3.1\ChatBot-Client.csprojAssemblyReference.cache
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab9-Test_Bots_DirectLine\code\ChatBot-Client\ChatBot-Client\obj\Debug\netcoreapp3.1\ChatBot-Client.AssemblyInfoInputs.cache
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab9-Test_Bots_DirectLine\code\ChatBot-Client\ChatBot-Client\obj\Debug\netcoreapp3.1\ChatBot-Client.AssemblyInfo.cs
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab9-Test_Bots_DirectLine\code\ChatBot-Client\ChatBot-Client\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.DirectLine.dll
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab9-Test_Bots_DirectLine\code\ChatBot-Client\ChatBot-Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab9-Test_Bots_DirectLine\code\ChatBot-Client\ChatBot-Client\obj\Debug\netcoreapp3.1\ChatBot-Client.csproj.CopyComplete
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab9-Test_Bots_DirectLine\code\ChatBot-Client\ChatBot-Client\bin\Debug\netcoreapp3.1\ChatBot-Client.deps.json
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab9-Test_Bots_DirectLine\code\ChatBot-Client\ChatBot-Client\bin\Debug\netcoreapp3.1\ChatBot-Client.runtimeconfig.json
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab9-Test_Bots_DirectLine\code\ChatBot-Client\ChatBot-Client\bin\Debug\netcoreapp3.1\ChatBot-Client.runtimeconfig.dev.json
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab9-Test_Bots_DirectLine\code\ChatBot-Client\ChatBot-Client\bin\Debug\netcoreapp3.1\ChatBot-Client.dll
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab9-Test_Bots_DirectLine\code\ChatBot-Client\ChatBot-Client\bin\Debug\netcoreapp3.1\ChatBot-Client.pdb
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab9-Test_Bots_DirectLine\code\ChatBot-Client\ChatBot-Client\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab9-Test_Bots_DirectLine\code\ChatBot-Client\ChatBot-Client\obj\Debug\netcoreapp3.1\ChatBot-Client.csproj.CoreCompileInputs.cache
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab9-Test_Bots_DirectLine\code\ChatBot-Client\ChatBot-Client\obj\Debug\netcoreapp3.1\ChatBot-Client.dll
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab9-Test_Bots_DirectLine\code\ChatBot-Client\ChatBot-Client\obj\Debug\netcoreapp3.1\ChatBot-Client.pdb
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab9-Test_Bots_DirectLine\code\ChatBot-Client\ChatBot-Client\obj\Debug\netcoreapp3.1\ChatBot-Client.genruntimeconfig.cache

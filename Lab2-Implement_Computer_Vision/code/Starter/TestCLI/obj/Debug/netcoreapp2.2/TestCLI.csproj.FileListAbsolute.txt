@@ -1,0 +1,38 @@
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\obj\Debug\netcoreapp2.2\TestCLI.csprojAssemblyReference.cache
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\obj\Debug\netcoreapp2.2\TestCLI.AssemblyInfoInputs.cache
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\obj\Debug\netcoreapp2.2\TestCLI.AssemblyInfo.cs
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\obj\Debug\netcoreapp2.2\TestCLI.csproj.CoreCompileInputs.cache
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\Cosmos.CRTCompat.dll
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\TestCLI.deps.json
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\TestCLI.runtimeconfig.json
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\TestCLI.runtimeconfig.dev.json
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\TestCLI.dll
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\TestCLI.pdb
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\ImageStorageLibrary.dll
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\ProcessingLibrary.dll
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\ImageStorageLibrary.pdb
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\ProcessingLibrary.pdb
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\obj\Debug\netcoreapp2.2\TestCLI.csproj.CopyComplete
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\obj\Debug\netcoreapp2.2\TestCLI.dll
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\obj\Debug\netcoreapp2.2\TestCLI.pdb
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\obj\Debug\netcoreapp2.2\TestCLI.genruntimeconfig.cache
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\Cosmos.CRTCompat.dll
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\TestCLI.deps.json
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\TestCLI.runtimeconfig.json
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\TestCLI.runtimeconfig.dev.json
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\TestCLI.dll
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\TestCLI.pdb
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\ImageStorageLibrary.dll
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\ProcessingLibrary.dll
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\ImageStorageLibrary.pdb
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\bin\Debug\netcoreapp2.2\ProcessingLibrary.pdb
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\obj\Debug\netcoreapp2.2\TestCLI.csprojAssemblyReference.cache
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\obj\Debug\netcoreapp2.2\TestCLI.AssemblyInfoInputs.cache
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\obj\Debug\netcoreapp2.2\TestCLI.AssemblyInfo.cs
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\obj\Debug\netcoreapp2.2\TestCLI.csproj.CoreCompileInputs.cache
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\obj\Debug\netcoreapp2.2\TestCLI.csproj.CopyComplete
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\obj\Debug\netcoreapp2.2\TestCLI.dll
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\obj\Debug\netcoreapp2.2\TestCLI.pdb
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\TestCLI\obj\Debug\netcoreapp2.2\TestCLI.genruntimeconfig.cache

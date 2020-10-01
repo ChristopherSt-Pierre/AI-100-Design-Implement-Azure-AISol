@@ -1,0 +1,18 @@
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\ProcessingLibrary\obj\Debug\netcoreapp2.2\ProcessingLibrary.csprojAssemblyReference.cache
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\ProcessingLibrary\obj\Debug\netcoreapp2.2\ProcessingLibrary.AssemblyInfoInputs.cache
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\ProcessingLibrary\obj\Debug\netcoreapp2.2\ProcessingLibrary.AssemblyInfo.cs
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\ProcessingLibrary\obj\Debug\netcoreapp2.2\ProcessingLibrary.csproj.CoreCompileInputs.cache
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\ProcessingLibrary\bin\Debug\netcoreapp2.2\ProcessingLibrary.deps.json
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\ProcessingLibrary\bin\Debug\netcoreapp2.2\ProcessingLibrary.dll
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\ProcessingLibrary\bin\Debug\netcoreapp2.2\ProcessingLibrary.pdb
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\ProcessingLibrary\obj\Debug\netcoreapp2.2\ProcessingLibrary.dll
+D:\Co-Labo\Co-Labo\Formation AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\ProcessingLibrary\obj\Debug\netcoreapp2.2\ProcessingLibrary.pdb
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\ProcessingLibrary\bin\Debug\netcoreapp2.2\ProcessingLibrary.deps.json
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\ProcessingLibrary\bin\Debug\netcoreapp2.2\ProcessingLibrary.dll
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\ProcessingLibrary\bin\Debug\netcoreapp2.2\ProcessingLibrary.pdb
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\ProcessingLibrary\obj\Debug\netcoreapp2.2\ProcessingLibrary.csprojAssemblyReference.cache
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\ProcessingLibrary\obj\Debug\netcoreapp2.2\ProcessingLibrary.AssemblyInfoInputs.cache
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\ProcessingLibrary\obj\Debug\netcoreapp2.2\ProcessingLibrary.AssemblyInfo.cs
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\ProcessingLibrary\obj\Debug\netcoreapp2.2\ProcessingLibrary.csproj.CoreCompileInputs.cache
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\ProcessingLibrary\obj\Debug\netcoreapp2.2\ProcessingLibrary.dll
+D:\Co-Labo\Co-Labo\Formation-AI\AI-100-Design-Implement-Azure-AISol\Lab2-Implement_Computer_Vision\code\Starter\ProcessingLibrary\obj\Debug\netcoreapp2.2\ProcessingLibrary.pdb

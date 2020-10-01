@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAALsuACK5STkuI5iQs/kUR8gAAAAACAAAAAAAQZgAAAAEAACAAAADP0PQsHt9gFWVIPG9Av0tWM3yH+QJo6ExU60Xzq1AHQwAAAAAOgAAAAAIAACAAAADWUiGKmMPvfsKF+Mxbao49Jh+RAoW0bep5G8kCKoWMOoAAAAAfufEsswv69cYX4PIcU8ZUKCs8emjXqU7lU4RMeyce17KM7t14ZIt3cCSfAeyVmle8H4MxxEy9UiC6qiehLE0VdIA8YdjYNatMCHLIpu46zhj9uiWQxTT6SG3I2cYykPjmZzX/d6AaktJY14d5kGPiF5iTD9kD6OIetkYbGr9VdEAAAADeRVOvRbcPRtRp631G59LnXe8lXso3607QpcSKGVbdTMG5NTSgVm6Q2RESTHoUiwXNd1XLehNJ4zlJbXbDnUmA</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-dm1-031.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AdaptiveExpressions.dll">
+      <publishTime>09/08/2020 20:19:16</publishTime>
+    </File>
+    <File Include="Antlr4.Runtime.dll">
+      <publishTime>12/23/2018 15:46:30</publishTime>
+    </File>
+    <File Include="appsettings.Development.json">
+      <publishTime>09/12/2020 17:35:18</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>09/30/2020 10:33:22</publishTime>
+    </File>
+    <File Include="DeploymentTemplates/new-rg-parameters.json">
+      <publishTime>09/12/2020 17:35:18</publishTime>
+    </File>
+    <File Include="DeploymentTemplates/preexisting-rg-parameters.json">
+      <publishTime>09/12/2020 17:35:18</publishTime>
+    </File>
+    <File Include="DeploymentTemplates/template-with-new-rg.json">
+      <publishTime>09/12/2020 17:35:18</publishTime>
+    </File>
+    <File Include="DeploymentTemplates/template-with-preexisting-rg.json">
+      <publishTime>09/12/2020 17:35:18</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.JsonPatch.dll">
+      <publishTime>12/16/2019 02:04:44</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll">
+      <publishTime>12/16/2019 02:17:30</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.CognitiveServices.Language.LUIS.dll">
+      <publishTime>02/06/2019 10:46:00</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.CognitiveServices.Language.TextAnalytics.dll">
+      <publishTime>07/26/2019 00:00:14</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.Cosmos.Client.dll">
+      <publishTime>09/17/2019 14:50:08</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.Cosmos.Core.dll">
+      <publishTime>06/18/2019 11:07:06</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.Cosmos.Direct.dll">
+      <publishTime>09/06/2019 19:28:34</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.Cosmos.Serialization.HybridRow.dll">
+      <publishTime>06/18/2019 11:07:06</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.DocumentDB.Core.dll">
+      <publishTime>10/03/2018 20:24:48</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.KeyVault.Core.dll">
+      <publishTime>07/29/2015 12:56:38</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.Search.Common.dll">
+      <publishTime>10/29/2019 17:55:58</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.Search.Data.dll">
+      <publishTime>10/29/2019 17:56:02</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.Search.dll">
+      <publishTime>10/29/2019 17:56:02</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.Search.Service.dll">
+      <publishTime>10/29/2019 17:56:02</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.Storage.Blob.dll">
+      <publishTime>12/17/2018 19:33:26</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.Storage.Common.dll">
+      <publishTime>12/17/2018 19:33:26</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Builder.AI.Luis.dll">
+      <publishTime>09/08/2020 20:19:48</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Builder.Azure.dll">
+      <publishTime>09/08/2020 20:19:16</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Builder.Dialogs.Declarative.dll">
+      <publishTime>09/08/2020 20:19:16</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Builder.Dialogs.dll">
+      <publishTime>09/08/2020 20:19:16</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Builder.dll">
+      <publishTime>09/08/2020 20:19:16</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Builder.Integration.AspNet.Core.dll">
+      <publishTime>09/08/2020 20:19:16</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Configuration.dll">
+      <publishTime>09/08/2020 20:19:16</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Connector.dll">
+      <publishTime>09/08/2020 20:19:16</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Schema.dll">
+      <publishTime>09/08/2020 20:19:16</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Streaming.dll">
+      <publishTime>09/08/2020 20:19:16</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Clients.ActiveDirectory.dll">
+      <publishTime>11/02/2019 03:35:36</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>10/18/2019 23:39:24</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>10/18/2019 23:40:20</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>10/18/2019 23:41:02</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>10/18/2019 23:48:48</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>10/18/2019 23:43:40</publishTime>
+    </File>
+    <File Include="Microsoft.Recognizers.Definitions.dll">
+      <publishTime>11/11/2019 06:36:50</publishTime>
+    </File>
+    <File Include="Microsoft.Recognizers.Text.Choice.dll">
+      <publishTime>11/11/2019 06:36:48</publishTime>
+    </File>
+    <File Include="Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll">
+      <publishTime>11/11/2019 06:36:50</publishTime>
+    </File>
+    <File Include="Microsoft.Recognizers.Text.DateTime.dll">
+      <publishTime>11/11/2019 06:36:50</publishTime>
+    </File>
+    <File Include="Microsoft.Recognizers.Text.dll">
+      <publishTime>11/11/2019 06:36:50</publishTime>
+    </File>
+    <File Include="Microsoft.Recognizers.Text.Number.dll">
+      <publishTime>11/11/2019 06:36:50</publishTime>
+    </File>
+    <File Include="Microsoft.Recognizers.Text.NumberWithUnit.dll">
+      <publishTime>11/11/2019 06:36:48</publishTime>
+    </File>
+    <File Include="Microsoft.Rest.ClientRuntime.Azure.dll">
+      <publishTime>01/25/2019 00:02:58</publishTime>
+    </File>
+    <File Include="Microsoft.Rest.ClientRuntime.dll">
+      <publishTime>11/20/2019 19:16:52</publishTime>
+    </File>
+    <File Include="Microsoft.Spatial.dll">
+      <publishTime>12/18/2018 23:35:14</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.Bson.dll">
+      <publishTime>11/27/2018 23:10:18</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>11/09/2019 00:56:44</publishTime>
+    </File>
+    <File Include="NuGet.Common.dll">
+      <publishTime>03/27/2020 00:05:22</publishTime>
+    </File>
+    <File Include="NuGet.Configuration.dll">
+      <publishTime>03/27/2020 00:06:54</publishTime>
+    </File>
+    <File Include="NuGet.Frameworks.dll">
+      <publishTime>03/27/2020 00:07:12</publishTime>
+    </File>
+    <File Include="NuGet.Packaging.dll">
+      <publishTime>03/27/2020 00:08:34</publishTime>
+    </File>
+    <File Include="NuGet.Versioning.dll">
+      <publishTime>03/27/2020 00:10:08</publishTime>
+    </File>
+    <File Include="PictureBot.deps.json">
+      <publishTime>09/30/2020 11:31:28</publishTime>
+    </File>
+    <File Include="PictureBot.dll">
+      <publishTime>09/30/2020 11:31:27</publishTime>
+    </File>
+    <File Include="PictureBot.exe">
+      <publishTime>09/30/2020 11:31:27</publishTime>
+    </File>
+    <File Include="PictureBot.pdb">
+      <publishTime>09/30/2020 11:31:27</publishTime>
+    </File>
+    <File Include="PictureBot.runtimeconfig.json">
+      <publishTime>09/30/2020 11:29:35</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netstandard2.0/System.Private.ServiceModel.dll">
+      <publishTime>05/23/2018 15:50:52</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/Cosmos.CRTCompat.dll">
+      <publishTime>09/06/2019 19:26:20</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/Microsoft.Azure.Cosmos.ServiceInterop.dll">
+      <publishTime>09/06/2019 19:26:20</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netstandard2.0/System.Private.ServiceModel.dll">
+      <publishTime>05/23/2018 15:50:52</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>05/15/2018 13:29:44</publishTime>
+    </File>
+    <File Include="runtimes/win7-x64/native/DocumentDB.Spatial.Sql.dll">
+      <publishTime>10/03/2018 17:05:14</publishTime>
+    </File>
+    <File Include="runtimes/win7-x64/native/Microsoft.Azure.Documents.ServiceInterop.dll">
+      <publishTime>10/03/2018 17:05:14</publishTime>
+    </File>
+    <File Include="System.Configuration.ConfigurationManager.dll">
+      <publishTime>05/15/2018 13:29:38</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>10/18/2019 23:38:18</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>05/15/2018 13:29:44</publishTime>
+    </File>
+    <File Include="System.ServiceModel.dll">
+      <publishTime>05/23/2018 15:50:48</publishTime>
+    </File>
+    <File Include="System.ServiceModel.Primitives.dll">
+      <publishTime>05/23/2018 15:50:48</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>09/30/2020 11:31:30</publishTime>
+    </File>
+    <File Include="wwwroot/default.html">
+      <publishTime>09/29/2020 08:56:10</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
